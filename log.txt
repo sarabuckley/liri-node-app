@@ -1,0 +1,145 @@
+
+--- Response from Bands In Town API ---
+
+Interpol
+
+Venue Name: Queen Elizabeth Theatre
+Venue Location: Vancouver, , Canada
+Date of Event: 01/31/2019
+
+Venue Name: Keller Auditorium
+Venue Location: Portland, OR, United States
+Date of Event: 02/01/2019
+
+Venue Name: Moore Theatre
+Venue Location: Seattle, WA, United States
+Date of Event: 02/02/2019
+
+Venue Name: Palace Theatre - St. Paul/Minneapolis
+Venue Location: Saint Augusta, MN, United States
+Date of Event: 02/05/2019
+
+Venue Name: The Chicago Theatre
+Venue Location: Chicago, IL, United States
+Venue Location: Milwaukee, WI, United States
+Date of Event: 02/08/2019
+
+Venue Name: The Pageant
+Venue Location: St Louis, MO, United States
+Date of Event: 02/09/2019
+
+Venue Name: Marathon Music Works
+Venue Location: Nashville, TN, United States
+
+Venue Name: Pabst Theater
+Date of Event: 02/11/2019
+Date of Event: 02/07/2019
+Venue Location: Raleigh, NC, United States
+
+Venue Name: The Anthem
+Venue Location: Washington, DC, United States
+Date of Event: 02/15/2019
+
+Venue Name: Madison Square Garden
+
+Venue Name: The Ritz
+Venue Location: New York, NY, United States
+Date of Event: 02/14/2019
+-----------------------------------
+
+Date of Event: 02/16/2019
+
+--- Response from Spotify API ---
+
+Artist:  Culture Club
+Album:   Colour By Numbers
+Song:    Karma Chameleon
+Preview: https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc
+-----------------------------------
+
+
+--- Response from Spotify API ---
+
+Artist:  Ace of Base
+Song:    The Sign
+Album:   The Sign (US Album) [Remastered]
+Preview: https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm
+-----------------------------------
+
+
+--- Response from OMDB API ---
+
+Title: Moon
+Year: 2009
+IMDB Rating: 7.9/10
+Rotten Tomatoes Rating: 90%
+Country:UK, USA
+Language: English, Spanish
+Plot: Astronaut Sam Bell has a quintessentially personal encounter toward the end of his three-year stint on the Moon, where he, working alongside his computer, GERTY, sends back to Earth parcels of a resource that has helped diminish our planet's power problems.
+Actors: Sam Rockwell, Kevin Spacey, Dominique McElligott, Rosie Shaw
+-----------------------------------
+
+
+--- Response from OMDB API ---
+
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9/10
+Rotten Tomatoes Rating: 67%
+Country:Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+-----------------------------------
+
+
+=   Using random.txt   =
+
+
+--- Response from OMDB API ---
+
+Title: Babette's Feast
+Year: 1987
+IMDB Rating: 7.8/10
+Rotten Tomatoes Rating: 96%
+Country:Denmark
+Language: Danish, Swedish, French, Italian, English
+Plot: During the late 19th century, a strict religious community in a Danish village takes in a French refugee from the Franco-Prussian War as a servant to the late pastor's daughters.
+Actors: Stéphane Audran, Bodil Kjer, Birgitte Federspiel, Jarl Kulle
+-----------------------------------
+
+
+--- Response from Bands In Town API ---
+
+Pentatonix
+
+Venue Name: The Met Philadelphia
+Venue Location: Philadelphia, PA, United States
+Date of Event: 12/16/2018
+
+Venue Name: Beacon Theatre
+Venue Location: New York, NY, United States
+Date of Event: 12/18/2018
+
+Venue Name: Beacon Theatre
+Venue Location: New York, NY, United States
+Date of Event: 12/19/2018
+
+Venue Name: Beacon Theatre
+Venue Location: New York, NY, United States
+Date of Event: 12/20/2018
+
+Venue Name: Beacon Theatre
+Venue Location: New York, NY, United States
+Date of Event: 12/22/2018
+-----------------------------------
+
+
+--- Response from Spotify API ---
+
+Artist:  Backstreet Boys
+Album:   The Hits--Chapter One
+Song:    I Want It That Way
+-----------------------------------
+
+Preview: https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7
